@@ -26,5 +26,5 @@ This project analyzes retail sales data to identify trends, category-wise perfor
 ### Monthly Sales Trend
 ![Monthly Sales Trend](monthly_sales_trend.png)
 ### Power BI Dashboard
-![Power BI Dashboard](Power_BI_Dashboard.png)
+![Power BI Dashboard](Power_BI_Dasboard.png)
 
